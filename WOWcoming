@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="eee.css">
+<!--------------->
+   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+   <script>
+      $(function() {
+         $("#includeHtml").load("timer/countdown.html");
+      });
+   </script>
+<!--------------->
+<!--------------->
+<style>
+h1{
+color: #396;
+font-weight: 100;
+font-size: 40px;
+margin: 40px 0px 20px;
+}
+#clockdiv{
+	font-family: sans-serif;
+	color: #fff;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+}
+#clockdiv > div{
+	padding: 10px;
+	border-radius: 3px;
+	background: #00BF96;
+	display: inline-block;
+}
+#clockdiv div > span{
+	padding: 15px;
+	border-radius: 3px;
+	background: #00816A;
+	display: inline-block;
+}
+smalltext{
+	padding-top: 5px;
+	font-size: 16px;
+}
+</style>
+<!--------------->
+
+
+</head>
+<body>
+<div class="wrapper">
+  <header class="header">Diablo 4 Nova</header> 
+	<!-------------------------->
+<aside class="pclock">
+<script src="https://cdn.logwork.com/widget/clock.js"></script>
+<a href="https://logwork.com/current-time-in-muscat-oman-masqat" class="clock-time" data-style="roman-y-light" data-size="111" data-timezone="Asia/Muscat">Current time in Oman</a>
+</aside>
+<!-------------------------->
+	<!--<header class="navtop">-->
+		<ul class="navigation">
+  			<li><a href="aa.html">Home</a></li>
+  			<li><a href="https://seebnova.github.io/testall/main/index.html">About</a></li>
+  			<li><a href="#">Products</a></li>
+  			<li><a href="#">Contact</a></li>
+		</ul>
+	<!--</header>-->
+  <article class="main">
+<p></p>
+<p></p>
+<p>
+<div id="includeHtml"></div>
+</p>
+	<p><div class="flex-container"><div class="blog"> It is coming </div><div class="viz"> <img src="img/loot2.png" alt="Paris" width="170" height="420"></div> </div></p>
+
+<p><div class="flex-container"><div class="blog"> Here we go with the Lightening Sorcerer </div><div class="viz"> <img src="img/loot1.jpg" alt="Paris" width="460" height="300"></div> </div></p>
+<p><div class="flex-container"><div class="blog"> sssThe behavior could be thought of as a minimum gutter, as if the gutter is bigger somehow (because of something like justify-content: space-between;) then the gap will only take effect if that space would end up smaller..
+ </div><div class="viz"> <img src="img/loot1.jpg" alt="Paris" width="460" height="300"></div> </div></p>	  	  
+  <p>sssThe behavior could be thought of as a minimum gutter, as if the gutter is bigger somehow (because of something like justify-content: space-between;) then the gap will only take effect if that space would end up smaller..</p>  
+ <p>The behavior could be thought of as a minimum gutter, as if the gutter is bigger somehow (because of something like justify-content: space-between;) then the gap will only take effect if that space would end up smaller..</p>  
+ <p>The behavior could be thought of as a minimum gutter, as if the gutter is bigger somehow (because of something like justify-content: space-between;) then the gap will only take effect if that space would end up smaller..</p>  
+ <p>The behavior could be thought of as a minimum gutter, as if the gutter is bigger somehow (because of something like justify-content: space-between;) then the gap will only take effect if that space would end up smaller..</p>  
+ <p>The behavior could be thought of as a minimum gutter, as if the gutter is bigger somehow (because of something like justify-content: space-between;) then the gap will only take effect if that space would end up smaller..</p>  
+ <p>The behavior could be thought of as a minimum gutter, as if the gutter is bigger somehow (because of something like justify-content: space-between;) then the gap will only take effect if that space would end up smaller..</p>  
+ <p>The behavior could be thought of as a minimum gutter, as if the gutter is bigger somehow (because of something like justify-content: space-between;) then the gap will only take effect if that space would end up smaller..</p>  
+ <p>zzzzzz</p>
+	  Bendegúz Világos [playerid=410859759]
+43 years and 107 days, Next birthday: 31-10-2023
+
+Nationality: România
+
+A sympathetic guy who is calm and upright. Has extra-terrestrial experience and poor leadership. Has divine loyalty.
+Owner: Zxartagena since 03-09-2021
+TSI: 0
+Wage: [money]3000[/money]/week
+Speciality: [b]Head[/b]
+Warnings: 0
+Injuries : Healthy
+
+[table][tr][th]Form[/th][td]wretched (2)[/td][/tr][tr][th]Stamina[/th][td]disastrous (1)[/td][/tr][/table]
+[table][tr][th]Keeper[/th][td]non-existent (0)[/td][/tr][tr][th]Defending[/th][td]non-existent (0)[/td][/tr][tr][th]Playmaking[/th][td]non-existent (0)[/td][/tr][tr][th]Winger[/th][td]non-existent (0)[/td][/tr][tr][th]Passing[/th][td]non-existent (0)[/td][/tr][tr][th]Scoring[/th][td]non-existent (0)[/td][/tr][tr][th]Set pieces[/th][td][b]magnificent[/b] (12)[/td][/tr][/table]
+
+ </article>
+  <aside class="aside aside-1">
+<ul>
+        <li><a href="#" class="active">
+           <i class="fas fa-home icon"></i>
+          Home</a></li>
+        <li><a href="#">
+           <i class="fas fa-rss icon"></i>
+          News</a></li>
+        <li><a href="#">
+          <i class="fas fa-address-book icon"></i>
+          Contact</a></li>
+        <li><a href="#">
+          <i class="fas fa-user icon"></i>
+        About</a></li>
+    </ul>
+
+</aside>
+<aside class="aside aside-2">Aside 2z1x</aside>
+<footer class="footer">Done for 2023
+
+</footer>
+
+
+
+
+</div>
+</body>
+
+</html>
