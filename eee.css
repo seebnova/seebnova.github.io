@@ -1,7 +1,7 @@
 body {
 	zbackground-image: url("img/wow.webp");
 	zbackground-image: linear-gradient(rgba(255,255,255,0.0), rgba(255,255,255,0.9)), url("img/image-3.webp");
-	background-image: url("img/d4-world-bg-mobile.jpg");
+	background-image: url("img/wow.webp");
 	zbackground-color:#483C32;#5C4033;
 	font-size: 18px;
 
